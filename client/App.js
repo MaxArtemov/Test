@@ -20,6 +20,20 @@ export default class App extends React.Component{
     }
 }
 
+function a () {
+    console.log('bullshit')
+}
+
+function b () {
+    console.log('bullshit')
+}
+
+function c () {
+    console.log('c')
+}
+function ef () {
+    console.log('gggg')
+}
 
 render(
  <App />,

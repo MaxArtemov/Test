@@ -23,3 +23,7 @@ export default class App extends React.Component{
 function a () {
     console.log('bullshit')
 }
+
+function b () {
+    console.log('bullshit')
+}

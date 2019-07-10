@@ -20,8 +20,6 @@ export default class App extends React.Component{
     }
 }
 
-
-render(
- <App />,
-  document.getElementById('app')
-)
+function a () {
+    console.log('bullshit')
+}

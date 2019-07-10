@@ -31,3 +31,11 @@ function b () {
 function c () {
     console.log('c')
 }
+function ef () {
+    console.log('gggg')
+}
+
+render(
+ <App />,
+  document.getElementById('app')
+)

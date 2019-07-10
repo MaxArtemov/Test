@@ -27,3 +27,7 @@ function a () {
 function b () {
     console.log('bullshit')
 }
+
+function c () {
+    console.log('c')
+}
